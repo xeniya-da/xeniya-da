@@ -34,5 +34,5 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="gitlab" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="sql" width="40" height="40"/>&nbsp;
 <img src="https://github.com/xeniya-da/xeniya-da/blob/main/tableau-color.svg" title="tableau" width="40" height="40"/>&nbsp;
-<img src="https://github.com/xeniya-da/xeniya-da/blob/main/power_bi.png" title="power_bi" width="40" height="40"/>&nbsp;
+<img src="https://github.com/xeniya-da/xeniya-da/blob/main/power_bi.jpg" title="power_bi" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="airflow" width="40" height="40"/>&nbsp;
